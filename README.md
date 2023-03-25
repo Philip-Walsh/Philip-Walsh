@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+
+
 ## About Me
 
 I am a DevOps Engineer with expertise in Mean Stack Development, containerization, and automation. I have extensive experience building and maintaining Jenkins and Spinnaker pipelines, providing support to development teams, and optimizing workflows to improve efficiency.
@@ -32,5 +34,11 @@ I'm also passionate about keeping up with the latest technologies and tools.💻
 I have a particular interest in raccoons and their behavior. 🦝
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/philip-walsh-01/)). Let's chat! 💬
-# [Philip Walsh💡](https://philip-walsh.github.io/)
+
+
+
+
+
+* * *
+# [philip-walsh.github.io💡](https://philip-walsh.github.io/)
 
