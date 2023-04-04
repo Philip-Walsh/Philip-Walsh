@@ -9,18 +9,18 @@ I am a DevOps Engineer with expertise in Mean Stack Development, containerizatio
 ## Skills
 
 - Full stack development 🚀 (JavaScript, Angular, Node.js, Express, MongoDB)
-- DevOps 🛠️ (Docker 🐳, Helm, Jenkins, Git)
-- Cloud computing ☁️ (AWS, Azure)
-- Containerization and orchestration 🐳⚙️ (Docker, Kubernetes)
+- DevOps 🛠️ (Docker, Helm, Jenkins, Git)
+- Programming 🐍 (Python, Java, groovy)
+- Cloud computing ☁️ (AWS, Openshift)
+- Containerization and orchestration 🐳 ⚙ (Docker, Kubernetes)
 - Continuous integration and delivery ⚙️ (Jenkins)
-- Monitoring and logging 📈 (Prometheus, ELK stack)
+- Monitoring and logging 🔎 (Prometheus, ELK stack)
 - Data Visualization  📈 (Grafana)
-- Source code management 🔍 (Git)
+- Source code management 🧵 (Git)
 - Scripting and automation 🤖 (Python, Bash, PowerShell)
 - Security and compliance 🔒 (IAM, Security Groups)
 - Collaboration and communication 💬 (Jira, Confluence)
 - Agile methodology 🏎️
-- Other 🐍 (Python, Java, groovy)
 
 <!-- ## Projects
 
