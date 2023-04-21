@@ -22,18 +22,13 @@ I am a DevOps Engineer with expertise in Mean Stack Development, containerizatio
 - Collaboration and communication 💬 (Jira, Confluence)
 - Agile methodology 🏎️
 
-<!-- ## Projects
-
-- **Project 1:** An e-commerce website built using React, Node.js, and MongoDB. Implemented CI/CD pipeline using Jenkins and deployed on AWS EC2.
-- **Project 2:** A chat application using WebSocket and React. Deployed on AWS Elastic Beanstalk. -->
-
 ## Interests
 
 In my free time, I enjoy exploring the great outdoors through activities like hiking 🥾 and water sports 🤿.
 I'm also passionate about keeping up with the latest technologies and tools.💻
 I have a particular interest in raccoons and their behavior. 🦝
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/philip-walsh-01/)). Let's chat! 💬
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/philip-walsh-01/). Let's chat! 💬
 
 
 
