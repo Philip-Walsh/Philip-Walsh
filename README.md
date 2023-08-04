@@ -5,6 +5,9 @@
 ## About Me
 
 I am a DevOps Engineer with expertise in Mean Stack Development, containerization, and automation. I have extensive experience building and maintaining Jenkins and Spinnaker pipelines, providing support to development teams, and optimizing workflows to improve efficiency.
+<a href=#><img src="https://stats4github.vercel.app/api?username=Philip-Walsh&include_all_commits=true"><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Philip-Walsh&title=Issues,Repositories,MultiLanguage,Pulls,Stars&column=5"><br/></a>
+<img src="https://stats4github.vercel.app/api/top-langs/?username=Philip-Walsh&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"><br/>
 
 ## Skills
 
