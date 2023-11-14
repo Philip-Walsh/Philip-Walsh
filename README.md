@@ -16,16 +16,18 @@ I am a DevOps Engineer with expertise in Mean Stack Development, containerizatio
 - Continuous integration and delivery ⚙️ (Jenkins)
 - Monitoring and logging 🔎 (Prometheus, ELK stack)
 - Data Visualization  📈 (Grafana)
-- Source code management 🧵 (Git)
 - Scripting and automation 🤖 (Python, Bash, PowerShell)
+<!--- - Source code management 🧵 (Git)
 - Security and compliance 🔒 (IAM, Security Groups)
 - Collaboration and communication 💬 (Jira, Confluence)
 - Agile methodology 🏎️
-
+--->
 ## Interests
 
 In my free time, I enjoy exploring the great outdoors through activities like hiking 🥾 and water sports 🤿.
+
 I'm also passionate about keeping up with the latest technologies and tools.💻
+
 I have a particular interest in raccoons and their behavior. 🦝
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/philip-walsh-01/). Let's chat! 💬
