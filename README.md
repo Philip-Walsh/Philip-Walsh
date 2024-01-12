@@ -1,22 +1,19 @@
 # Hi there! 👋
 
+## DevOps Engineer | Mean Stack Developer | Automation Enthusiast
 
+Passionate DevOps Engineer with expertise in Mean Stack Development, containerization, and automation. Experienced in building and optimizing Jenkins and Spinnaker pipelines, enhancing workflow efficiency for development teams.
 
-## About Me
-
-I am a DevOps Engineer with expertise in Mean Stack Development, containerization, and automation. I have extensive experience building and maintaining Jenkins and Spinnaker pipelines, providing support to development teams, and optimizing workflows to improve efficiency.
-
-## Skills
+## Key Skills
 
 - Full stack development 🚀 (JavaScript, Angular, Node.js, Express, MongoDB)
+- Containerization 🐳 and orchestration ⚙️ (Docker, Kubernetes)
 - DevOps 🛠️ (Docker, Helm, Jenkins, Git)
-- Programming 🐍 (Python, Java, groovy)
+- CI/CD ⚙️ (Jenkins, Spinnaker)
+- Programming and automation 🤖 (Python, JavaScript, TypeScript, Bash)
 - Cloud computing ☁️ (AWS, Openshift)
-- Containerization and orchestration 🐳 ⚙ (Docker, Kubernetes)
-- Continuous integration and delivery ⚙️ (Jenkins)
 - Monitoring and logging 🔎 (Prometheus, ELK stack)
 - Data Visualization  📈 (Grafana)
-- Scripting and automation 🤖 (Python, Bash, PowerShell)
 <!--- - Source code management 🧵 (Git)
 - Security and compliance 🔒 (IAM, Security Groups)
 - Collaboration and communication 💬 (Jira, Confluence)
