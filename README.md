@@ -6,6 +6,8 @@ Passionate DevOps Engineer with expertise in Mean Stack Development, containeriz
 
 [💡 philip-walsh.github.io](https://philip-walsh.github.io/)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-walsh-01/)
+
 ## Key Skills
 
 - Full stack development 🚀        
@@ -45,6 +47,7 @@ I have a particular interest in raccoons and their behavior. 🦝
 
 [![Codewars](https://www.codewars.com/users/Philip-W/badges/large)](https://www.codewars.com/users/Philip-W/)
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-walsh-01/)
 
+### Like My Work?
+
+<a href="https://www.buymeacoffee.com/philipwalsf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
