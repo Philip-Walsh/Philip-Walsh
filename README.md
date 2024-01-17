@@ -48,6 +48,8 @@ I have a particular interest in raccoons and their behavior. 🦝
 [![Codewars](https://www.codewars.com/users/Philip-W/badges/large)](https://www.codewars.com/users/Philip-W/)
 
 
+<img src="https://stats4github.vercel.app/api/top-langs/?username=Philip-Walsh&langs_count=11&hide=html&layout=compact"><br/>
+
 ### Like My Work?
 
 <a href="https://www.buymeacoffee.com/philipwalsf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
