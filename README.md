@@ -6,6 +6,7 @@ Passionate DevOps Engineer with expertise in Mean Stack Development, containeriz
 
 [![💡 philip-walsh.github.io](https://img.shields.io/badge/philipwalsh.github.io-19A7CE?style=for-the-badge&logo=About.me&logoColor=white)](https://philip-walsh.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-walsh-01/)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Philip-Walsh)
 
 ## Key Skills
 
@@ -17,8 +18,9 @@ Passionate DevOps Engineer with expertise in Mean Stack Development, containeriz
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
   ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+  <!---
   ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
-  
+  -->
 - DevOps 🛠️             
   ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
