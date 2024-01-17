@@ -4,8 +4,7 @@
 
 Passionate DevOps Engineer with expertise in Mean Stack Development, containerization, and automation. Experienced in building and optimizing Jenkins and Spinnaker pipelines, enhancing workflow efficiency for development teams.
 
-[💡 philip-walsh.github.io](https://philip-walsh.github.io/)
-
+[![💡 philip-walsh.github.io](https://img.shields.io/badge/philipwalsh.github.io-19A7CE?style=for-the-badge&logo=About.me&logoColor=white)](https://philip-walsh.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-walsh-01/)
 
 ## Key Skills
@@ -28,10 +27,15 @@ Passionate DevOps Engineer with expertise in Mean Stack Development, containeriz
 - Monitoring and logging 🔎        
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
   ![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 - Data Visualization  📈        
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 - Cloud computing ☁️        
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- Testing 🧪        
+  ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+  ![mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+  ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ## Interests
 
