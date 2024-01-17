@@ -1,10 +1,10 @@
-# Hi there! 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=087E17&vCenter=true&random=false&width=435&lines=DevOps+Engineer;+Mean+Stack+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=087E17&vCenter=true&random=false&width=435&lines=DevOps+Engineer;+Mean+Stack+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
 
 ## About Me
 
 Passionate DevOps Engineer with expertise in Mean Stack Development, containerization, and automation. Experienced in building and optimizing Jenkins and Spinnaker pipelines, enhancing workflow efficiency for development teams.
+
+[💡 philip-walsh.github.io](https://philip-walsh.github.io/)
 
 ## Key Skills
 
@@ -39,20 +39,12 @@ I'm also passionate about keeping up with the latest technologies and tools.💻
 
 I have a particular interest in raccoons and their behavior. 🦝
 
-### Connect with me:
+## Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Philip-Walsh&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true)
+
+[![Codewars](https://www.codewars.com/users/Philip-W/badges/large)](https://www.codewars.com/users/Philip-W/)
+
+## Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philip-walsh-01/)
 
-* * *
-# [philip-walsh.github.io💡](https://philip-walsh.github.io/)
-
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Philip-Walsh&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true" align="right" width="100%" />
-<!--- - Source code management 🧵 (Git)
-- Security and compliance 🔒 (IAM, Security Groups)
-- Collaboration and communication 💬 (Jira, Confluence)
-- Agile methodology 🏎️
-
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
---->
