@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=087E17&vCenter=true&random=false&width=435&lines=DevOps+Engineer;+Full+Stack+Developer;Automation+Enthusiast)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=45&pause=1000&color=087E17&vCenter=true&random=false&width=435&lines=DevOps+Engineer;+Full+Stack+Developer;Automation+Enthusiast)](https://philip-walsh.github.io/)
 
 ## About Me
 
