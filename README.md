@@ -68,7 +68,7 @@ I have a particular interest in raccoons and their behavior. 🦝
 [![Codewars](https://www.codewars.com/users/Philip-W/badges/large)](https://www.codewars.com/users/Philip-W/)
 
 
-<img src="https://stats4github.vercel.app/api/top-langs/?username=Philip-Walsh&langs_count=11&hide=html&layout=compact"><br/>
+<img src="https://stats4github.vercel.app/api/top-langs/?username=Philip-Walsh&langs_count=11&hide=html,css&layout=compact"><br/>
 
 ### Like My Work?
 
