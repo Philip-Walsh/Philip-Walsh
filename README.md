@@ -57,8 +57,3 @@ I build and run **cloud-native systems** that are designed to scale, built to re
 
 <img src="https://stats4github.vercel.app/api/top-langs/?username=Philip-Walsh&langs_count=10&layout=compact" alt="Top Languages" />
 
----
-
-### ☕️ Buy Me a Coffee?
-
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Buy Me A Coffee" />](https://www.buymeacoffee.com/philipwalsf)
