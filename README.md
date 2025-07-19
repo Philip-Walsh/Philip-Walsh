@@ -9,8 +9,8 @@ I build and run **cloud-native systems** that are designed to scale, built to re
 
 **What I'm currently exploring:**
 
-* Model Context Protocol (MCP) & memory-aware agent design
-* Self-hosted AI for smart home automation (privacy-first, offline-capable)
+* Model Context Protocol (MCP)
+* Self-hosted AI for smart home automation
 * Lightweight JAM stack using **Next.js**, **Neon**, and **Postgres**
 
 ### 📌 Links
@@ -55,5 +55,5 @@ I build and run **cloud-native systems** that are designed to scale, built to re
 
 [![Codewars](https://www.codewars.com/users/Philip-W/badges/large)](https://www.codewars.com/users/Philip-W/)  
 
-<img src="https://stats4github.vercel.app/api/top-langs/?username=Philip-Walsh&langs_count=10&layout=compact" alt="Top Languages" />
+<img src="https://stats4github.vercel.app/api/top-langs/?username=Philip-Walsh&langs_count=10&layout=compact&theme=tokyonight&hide=css,scss,html" alt="Top Languages" />
 
