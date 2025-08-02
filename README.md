@@ -31,7 +31,6 @@ I build and run **cloud-native systems** that are designed to scale, built to re
 #### ⚙️ DevOps + Automation 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-306CE5?style=for-the-badge&logo=kubernetes&logoColor=white)![Docker](https://img.shields.io/badge/Docker-1797C4?style=for-the-badge&logo=docker&logoColor=white)![Helm](https://img.shields.io/badge/Helm-283C86?style=for-the-badge&logo=helm&logoColor=white)![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2A8FFF?style=for-the-badge&logo=githubactions&logoColor=white)![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4?style=for-the-badge&logo=spinnaker&logoColor=white)![Argo CD](https://img.shields.io/badge/Argo_CD-0052CC?style=for-the-badge&logo=argo&logoColor=white)
 
-
 #### 🧪 Testing  
 ![Jest](https://img.shields.io/badge/Jest-BF1B2C?style=for-the-badge&logo=jest&logoColor=white)![Cypress](https://img.shields.io/badge/Cypress-1A1A1A?style=for-the-badge&logo=cypress&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Cucumber](https://img.shields.io/badge/Cucumber-21BC6B?style=for-the-badge&logo=cucumber&logoColor=white)
 
