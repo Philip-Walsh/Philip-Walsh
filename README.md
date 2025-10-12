@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFA3&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Infra+Architect+%F0%9F%9A%A7;Full-Stack+Automator+%F0%9F%92%BB;Cloud+%2B+AI+Pragmatist+%E2%98%81%EF%B8%8F+%2B+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96)](https://philip-walsh.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFA3&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Full-Stack+Automator+%F0%9F%92%BB;Cloud+%2B+AI+Pragmatist+%E2%98%81%EF%B8%8F+%2B+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96)](https://philip-walsh.github.io/)
 
 # Philip Walsh 
 🚀 Senior DevOps & Full Stack Engineer 
