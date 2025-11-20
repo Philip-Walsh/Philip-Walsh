@@ -10,8 +10,7 @@ I build and run **cloud-native systems** that are designed to scale, built to re
 **What I'm currently exploring:**
 
 * Building Model Context Protocol (MCP) Servers
-* Self-hosted Tool Calling Agents for smart home automation
-* Lightweight JAM stack using **Next.js**, **Neon**, and **Postgres**
+* Self-hosting Tool Calling Agents for smart home automation
 
 ### 📌 Links
 
