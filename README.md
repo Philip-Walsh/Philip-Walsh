@@ -9,17 +9,17 @@ I build and run **cloud-native systems** that are designed to scale, built to re
 
 **What I'm currently exploring:**
 
-* Model Context Protocol (MCP)
-* Self-hosted AI for smart home automation
+* Building Model Context Protocol (MCP) Servers
+* Self-hosted Tool Calling Agents for smart home automation
 * Lightweight JAM stack using **Next.js**, **Neon**, and **Postgres**
 
 ### 📌 Links
 
-👉 [philip-walsh.github.io](https://philip-walsh.github.io/)  
-🚀 [https://spaghettis.netlify.app](https://spaghettis.netlify.app/)  
-🤗 [huggingface.co/Philip-Walsh](https://huggingface.co/Philip-Walsh)  
-🦝 [CodePens](https://codepen.io/Philip-Walsh)  
-📝 [Dev.to](https://dev.to/philipwalsh)
+👉 Portfolio [philip-walsh.github.io](https://philip-walsh.github.io/)  
+🚀 Gen Ai app [spaghettis.netlify.app](https://spaghettis.netlify.app/)  
+🤗 MCP Servers [huggingface.co/Philip-Walsh](https://huggingface.co/Philip-Walsh)  
+🦝 Web Projects [CodePens](https://codepen.io/Philip-Walsh)  
+📝 Articles [Dev.to](https://dev.to/philipwalsh)
 
 ---
 
@@ -34,21 +34,19 @@ I build and run **cloud-native systems** that are designed to scale, built to re
 #### 🧪 Testing  
 ![Jest](https://img.shields.io/badge/Jest-BF1B2C?style=for-the-badge&logo=jest&logoColor=white)![Cypress](https://img.shields.io/badge/Cypress-1A1A1A?style=for-the-badge&logo=cypress&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Cucumber](https://img.shields.io/badge/Cucumber-21BC6B?style=for-the-badge&logo=cucumber&logoColor=white)
 
-#### 🧠 AI, Observability, & Cloud  
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)![Cursor.dev](https://img.shields.io/badge/Cursor.dev-1F1F1F?style=for-the-badge&logo=github&logoColor=white)![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?style=for-the-badge&logo=windsurf&logoColor=white)![Amazon Q](https://img.shields.io/badge/Amazon_Q-232F3E?style=for-the-badge&logo=amazon&logoColor=white)   
+####  Observability, & Cloud   
 ![Prometheus](https://img.shields.io/badge/Prometheus-E64A19?style=for-the-badge&logo=prometheus&logoColor=white)![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)   
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 
+#### 🧠 Ai
+
+![](https://img.shields.io/badge/-LangChain-1d3c3e?style=for-the-badge\&logo=langchain\&logoColor=f8f7ff)![](https://img.shields.io/badge/LangFlow-6B21A8?style=for-the-badge\&logo=langflow\&logoColor=white)![](https://img.shields.io/badge/-Ollama-ffffff?style=for-the-badge\&logo=ollama\&logoColor=black)![](https://img.shields.io/badge/-Model_context_protocol-000000?style=for-the-badge\&logo=modelcontextprotocol\&logoColor=white)![](https://img.shields.io/badge/-n8n-bd4726?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+![](https://img.shields.io/badge/-Cursor-ffffff?style=for-the-badge&logoColor=black\&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q3Vyc29yPC90aXRsZT48cGF0aCBkPSJNMTEuNTAzLjEzMSAxLjg5MSA1LjY3OGEuODQuODQgMCAwIDAtLjQyLjcyNnYxMS4xODhjMCAuMy4xNjIuNTc1LjQyLjcyNGw5LjYwOSA1LjU1YTEgMSAwIDAgMCAuOTk4IDBsOS42MS01LjU1YS44NC44NCAwIDAgMCAuNDItLjcyNFY2LjQwNGEuODQuODQgMCAwIDAtLjQyLS43MjZMMTIuNDk3LjEzMWExLjAxIDEuMDEgMCAwIDAtLjk5NiAwTTIuNjU3IDYuMzM4aDE4LjU1Yy4yNjMgMCAuNDMuMjg3LjI5Ny41MTVMMTIuMjMgMjIuOTE4Yy0uMDYyLjEwNy0uMjI5LjA2NC0uMjI5LS4wNlYxMi4zMzVhLjU5LjU5IDAgMCAwLS4yOTUtLjUxbC05LjExLTUuMjU3Yy0uMTA5LS4wNjMtLjA2NC0uMjMuMDYxLS4yMyIvPjwvc3ZnPg==)![](https://img.shields.io/badge/-Windsurf-000033?style=for-the-badge\&logo=windsurf\&logoColor=white)![](https://img.shields.io/badge/-Gemini-1f1f1f?style=for-the-badge&logoColor=black&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8dGl0bGU+R29vZ2xlIEdlbWluaTwvdGl0bGU+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdlbWluaUdyYWRpZW50IiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNzZlZmYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI4MC4zJSIgc3RvcC1jb2xvcj0iIzMyOTVlOCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4N2E5ZmYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxwYXRoIGQ9Ik0xMS4wNCAxOS4zMlExMiAyMS41MSAxMiAyNHEwLTIuNDkuOTMtNC42OC45Ni0yLjE5IDIuNTgtMy44MXQzLjgxLTIuNTVRMjEuNTEgMTIgMjQgMTJxLTIuNDkgMC00LjY4LS45M2ExMi4zIDEyLjMgMCAwIDEtMy44MS0yLjU4IDEyLjMgMTIuMyAwIDAgMS0yLjU4LTMuODFRMTIgMi40OSAxMiAwcTAgMi40OS0uOTYgNC42OC0uOTMgMi4xOS0yLjU1IDMuODFhMTIuMyAxMi4zIDAgMCAxLTMuODEgMi41OFEyLjQ5IDEyIDAgMTJxMi40OSAwIDQuNjguOTYgMi4xOS45MyAzLjgxIDIuNTV0Mi41NSAzLjgxIgogICAgICAgIGZpbGw9InVybCgjZ2VtaW5pR3JhZGllbnQpIi8+Cjwvc3ZnPgo=)![](https://img.shields.io/badge/-Claude_Code-DE7356?style=for-the-badge\&logo=claude\&logoColor=white)![](https://img.shields.io/badge/Amazon%20Q-01a88d?style=for-the-badge\&logoColor=white\&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjRweCIgaGVpZ2h0PSIyNHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSI+CiAgICA8dGl0bGU+SWNvbi1BcmNoaXRlY3R1cmUvMTYvQXJjaF9BbWF6b24tUV8xNjwvdGl0bGU+CiAgICA8ZyBpZD0iSWNvbi1BcmNoaXRlY3R1cmUvMTYvQXJjaF9BbWF6b24tUV8xNiIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9Ikljb24tQXJjaGl0ZWN0dXJlLUJHLzE2L01hY2hpbmUtTGVhcm5pbmciIGZpbGw9IiMwMUE4OEQiPgogICAgICAgICAgICA8cmVjdCBpZD0iUmVjdGFuZ2xlIiB4PSIwIiB5PSIwIiB3aWR0aD0iMjQiIGhlaWdodD0iMjQiLz4KICAgICAgICA8L2c+CiAgICAgICAgPGcgaWQ9Ikljb24tU2VydmljZS8xNi9BbWF6b24tUV8xNiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNS4wMDAwMDAsIDQuMTUwMDAwKSIgZmlsbD0iI0ZGRkZGRiI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik03LjcxNCw3LjM3NDUgTDcuNzE0LDguMjIxNSBMNy4wMDUsOC42NjA1IEw2LjI4Niw4LjIyMDUgTDYuMjg2LDcuMzc1NSBMNy4wMDUsNi45Mzg1IEw3LjcxNCw3LjM3NDUgWiBNNy4yMzksMTQuNjQ5NSBDNy4wODksMTQuNzMwNSA2LjkxMSwxNC43MzA1IDYuNzYxLDE0LjY0OTUgTDEuMjYxLDExLjY2MTUgQzEuMSwxMS41NzQ1IDEsMTEuNDA2NSAxLDExLjIyMjUgTDEsNC40ODM1IEMxLDQuMzAwNSAxLjEwMSw0LjEzMjUgMS4yNjIsNC4wNDQ1IEw2Ljc2MywxLjA2MTUgQzYuODM3LDEuMDIwNSA2LjkxOCwxLjAwMDUgNywxLjAwMDUgQzcuMDgyLDEuMDAwNSA3LjE2MywxLjAyMDUgNy4yMzgsMS4wNjE1IEwxMi43MzgsNC4wNDQ1IEMxMi45LDQuMTMyNSAxMyw0LjMwMDUgMTMsNC40ODM1IEwxMywxMC45MTM1IEw4LjcxNCw4LjIyNDUgTDguNzE0LDcuMDk0NSBDOC43MTQsNi45MjA1IDguNjI0LDYuNzU5NSA4LjQ3Niw2LjY2ODUgTDcuMjY4LDUuOTI2NSBDNy4xMDksNS44Mjk1IDYuOTA3LDUuODI4NSA2Ljc0Niw1LjkyNTUgTDUuNTI2LDYuNjY3NSBDNS4zNzcsNi43NTg1IDUuMjg2LDYuOTE5NSA1LjI4Niw3LjA5NDUgTDUuMjg2LDguNTAwNSBDNS4yODYsOC42NzQ1IDUuMzc3LDguODM1NSA1LjUyNiw4LjkyNjUgTDYuNzQ1LDkuNjczNSBDNi44MjUsOS43MjM1IDYuOTE1LDkuNzQ3NSA3LjAwNiw5Ljc0NzUgQzcuMDk3LDkuNzQ3NSA3LjE4OSw5LjcyMjUgNy4yNjksOS42NzI1IEw4LjIxMiw5LjA4OTUgTDEyLjUxLDExLjc4NjUgTDcuMjM5LDE0LjY0OTUgWiBNMTMuMjE1LDMuMTY1NSBMNy43MTYsMC4xODM1IEM3LjI2NywtMC4wNjE1IDYuNzMzLC0wLjA2MDUgNi4yODUsMC4xODI1IEwwLjc4NSwzLjE2NTUgQzAuMzAxLDMuNDI4NSAwLDMuOTMzNSAwLDQuNDgzNSBMMCwxMS4yMjI1IEMwLDExLjc3MzUgMC4zMDEsMTIuMjc4NSAwLjc4NCwxMi41NDA1IEw2LjI4NCwxNS41Mjg1IEM2LjUwOCwxNS42NTA1IDYuNzU0LDE1LjcxMTUgNywxNS43MTE1IEM3LjI0NiwxNS43MTE1IDcuNDkyLDE1LjY1MDUgNy43MTYsMTUuNTI4NSBMMTMuMjE2LDEyLjU0MDUgQzEzLjY5OSwxMi4yNzg1IDE0LDExLjc3MzUgMTQsMTEuMjIyNSBMMTQsNC40ODM1IEMxNCwzLjkzMzUgMTMuNjk5LDMuNDI4NSAxMy4yMTUsMy4xNjU1IEwxMy4yMTUsMy4xNjU1IFoiIGlkPSJGaWxsLTciLz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==)
+
 ---
 
-### 🛠 Currently Shipping  
-- Self-hosted automation  
-- Education tooling  
-- Jamstack dashboard built in Next.js + NeonDB
-
----
-
-### 📈 Stats, Feats & Demos
+### 📈 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Philip-Walsh&count_private=true&theme=tokyonight&show_icons=true)  
 
