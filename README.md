@@ -8,6 +8,11 @@
 
 [Portfolio](https://philip-walsh.github.io/) · [Linkedin](https://www.linkedin.com/in/philip-walsh-01) · [Designs](https://codepen.io/Philip-Walsh) · [AI](https://huggingface.co/Philip-Walsh) · [Articles](https://dev.to/philipwalsh)
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Philip-Walsh.Philip-Walsh)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+
 </div>
   
 ### Recent Builds
