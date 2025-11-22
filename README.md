@@ -19,9 +19,9 @@
 
 - **[Weathernode](https://github.com/Philip-Walsh/weathernode)** - An Express  service that provides live data and forecasts over REST and MCP, with built-in database caching to reduce API calls, enabling real-time, context-aware responses for connected LLMs
 
--  **[MCP Template](https://github.com/Philip-Walsh/mcp)** - Python, Bash and Docker Github Template enabling STDIO or Streamable HTTP Transport mechanisms.
+-  **[MCP Template](https://github.com/Philip-Walsh/mcp)** - Python, Bash and Docker Github Template enabling STDIO or Streamable HTTP Transport mechanisms
 
--   **[Aquasage](https://github.com/Philip-Walsh/aquasage)** - Next.js and Python FastApi prototype for an Aquaponics / Home Assistant chatbot prototype for OpenAi integrated applications.
+-   **[Aquasage](https://github.com/Philip-Walsh/aquasage)** - Next.js and Python FastApi prototype for an Aquaponics / Home Assistant chatbot prototype for OpenAi integrated applications
 
 -   **[MCP Servers](https://huggingface.co/spaces/Philip-Walsh/mcp-server-utils)** - Python Gradio MCP utilities deployed to Hugging Face enabling tool calling such as base64 encoding / decoding and JSON parsing
 
